@@ -1,16 +1,16 @@
 <div align="center">
-  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
+  <a href="Demo_link">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
   </a>
 
   <h3 align="center">Netflix Clone</h3>
 
   <p align="center">
-    <a href="https://netflix-clone-react-typescript.vercel.app/">View Demo</a>
+    <a href="Demo_link">View Demo</a>
     ·
-    <a href="https://github.com/crazy-man22/netflix-clone-react-typescript/issues">Report Bug</a>
+    <a href="https://github.com/wable-j/Netflix-Clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/crazy-man22/netflix-clone-react-typescript/issues">Request Feature</a>
+    <a href="https://github.com/wable-j/Netflix-Clone/issues">Request Feature</a>
   </p>
 </div>
 
