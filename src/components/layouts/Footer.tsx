@@ -28,9 +28,9 @@ export default function Footer() {
             target="_blank"
             underline="none"
             sx={{ color: "text.primary" }}
-            href="https://github.com/crazy-man22"
+            href="https://github.com/wable-j"
           >
-            Crazy Man
+            Jugal Wable
           </Link>
         </Typography>
       </Divider>
